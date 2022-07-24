@@ -1,8 +1,8 @@
 <h1>Faction-Alliances</h1>
 
-Faction Alliances as explained in the <a href="https://github.com/369gtech/Alpha-monoGames-Metaverse-Prologue">Alpha monoGames Metaverse Prologue</a> are United Alliances. So it is a good idea to connect with your your Friendly Alliances because when the game expands there will be special Alliance Battles and Alliance Missions that you will need to join forces to battle, survive and complete missions. Its a fun way for the Factions to build stronger ties with their Real Allies.
+Faction Alliances as explained in the <a href="https://github.com/369gtech/Destiny-Of-The-Universe-Game-Prologue">Destiny Of The Universe Game Prologue</a> are United Alliances. So it is a good idea to connect with your your Friendly Alliances because when the game expands there will be special Alliance Battles and Alliance Missions that you will need to join forces to battle, survive and complete missions. Its a fun way for the Factions to build stronger ties with their Real Allies.
 
-Here are the Friendly Alliances as mentioned in the monoGames <a href="https://github.com/369gtech/Alpha-monoGames-Metaverse-Prologue">Alpha monoGames Metaverse Prologue</a>;
+Here are the Friendly Alliances as mentioned in the monoGames <a href="https://github.com/369gtech/Destiny-Of-The-Universe-Game-Prologue">Destiny Of The Universe Game Prologue</a>;
 
 <ul>    
   <li>Ka'ree (Leader of the Hypertel Clan, The Elites and The Galactic Alliance)</li>
@@ -17,7 +17,7 @@ Here are the Friendly Alliances as mentioned in the monoGames <a href="https://g
   <li>Burstonia (Leader of the Resurrection Clan and Right hand Leader of the Elites)</li>
   <p></p>
   <ul><li>Riccoo (Leader of the Sound Clan)</li>
-  <li>Brabantyan Leader of the Spectrum Clan)</li>
+  <li>Brabantyan (Leader of the Spectrum Clan)</li>
   <li>JohnniiFM (Leader of the Heal Clan)</li>
   </ul>
 </ul>
