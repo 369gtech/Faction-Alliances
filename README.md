@@ -1,40 +1,40 @@
 <h1>Faction-Alliances</h1>
 
-There are 12 Blockchain <a href="https://github.com/369gtech/Factions">Factions</a> (Signum, Ethereum, Solana, Polkadot, DOGE, Pirate Chain, Dragonchain, Koinos, Hive, Wax, BSC and Zill.) altogether that will have teams in Destiny Of The Universe. These Factions will be split into 3 Alliances for the Greater Wars in the <a href="https://github.com/369gtech/Destiny-Of-The-Universe-Open-Faction-Tournaments">Destiny Of The Universe Open-Faction Tournaments</a> when the game goes into expansion mode. These teams include;
+There are 12 Blockchain <a href="https://github.com/369gtech/Factions">Factions</a> (Signum, Ethereum, Solana, Polkadot, DOGE, Pirate Chain, Dragonchain, Koinos, Hive, Wax, BSC and Zill) altogether that will have teams in Destiny Of The Universe. These Factions will be split into 3 Alliances for the Greater Wars in the <a href="https://github.com/369gtech/Destiny-Of-The-Universe-Open-Faction-Tournaments">Destiny Of The Universe Open-Faction Tournaments</a> when the game goes into expansion mode. These teams include;
 
 <ul>    
   <li>Sun Alliance</li>
   <p></p>
-  <ul><li>Hive Blockchain Faction</li>
-  <li>Wax Blockchain Faction</li>
-  <li>BSC Blockchain Faction</li>
-  <li>Zilliqua Blockchain Faction</li>
+  <ul><li>Hive Faction</li>
+  <li>Wax Faction</li>
+  <li>BSC Faction</li>
+  <li>Zilliqua Faction</li>
   </ul>
 </ul>
   <p></p>
 <ul>    
   <li>Moon Alliance</li>
   <p></p>
-  <ul><li>Ethereum Blockchain Faction</li>
-  <li>Solana Blockchain Faction</li>
-  <li>Polkadot Blockchain Faction</li>
-  <li>DOGE Blockchain Faction</li>
+  <ul><li>Ethereum Faction</li>
+  <li>Solana Faction</li>
+  <li>Polkadot Faction</li>
+  <li>DOGE Faction</li>
   </ul>
 </ul>
   <p></p>
 <ul>    
   <li>Eclipse Alliance</li>
   <p></p>
-  <ul><li>Signum Blockchain Faction</li>
-  <li>Pirate Chain Blockchain Faction</li>
-  <li>Dragonchain Blockchain Faction</li>
-  <li>Koinos Blockchain Faction</li>
+  <ul><li>Signum Faction</li>
+  <li>Pirate Faction</li>
+  <li>Dragonchain Faction</li>
+  <li>Koinos Faction</li>
   </ul>
 </ul>
 
-The Signum Faction has been completed as seen below and if you are a Signum Supporter like me, you will see a lot of the Dev's who have and most still do work tirelessly to keep the Signum Blockchain fully functional. These are the Battle Cards that will be used in the Destiny Of The Universe Game because our Developers and Supporters Battle everyday to keep their Blockchain Safe and Number in their Hearts.
+The Signum Faction has been completed as seen below and if you are a Signum Supporter like me, you will see a lot of the Developers who have and most still do work tirelessly to keep the Signum Blockchain fully functional. These are the Battle Cards that will be used in the Destiny Of The Universe Game because our Developers and Supporters Battle everyday to keep their Blockchain Safe and Number 1 in their Hearts.
 
-<h3>Signum Blockchain Faction</h2>
+<h3>Signum Faction</h2>
 
 <ul>    
   <li>Ka'ree (Leader of the Hypertel Clan, The Elites and The Galactic Alliance)</li>
